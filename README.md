@@ -1,6 +1,7 @@
-- Hi, I’m @AlexWills37
-- I’m interested in ... Computer Science
-- I’m currently learning Computer Science at NCF
+## Hi, I’m Alex Wills
+- I’m interested in computers, programming, game design, and art
+- I love problem solving and collaboration
+- I’m currently studying Computer Science at NCF
 
 <!---
 AlexWills37/AlexWills37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
