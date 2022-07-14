@@ -1,5 +1,5 @@
 ## Hi, I’m Alex Wills
-- I’m interested in computers, programming, game design, and art
+- I’m interested in computers, programming, game design, language, and art
 - I love problem solving and collaboration
 - I’m currently studying Computer Science at NCF
 
