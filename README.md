@@ -4,7 +4,7 @@
 - I’m currently studying Computer Science with a Rhetoric and Writing secondary field at NCF💻🪶
 
 ### Skills and familiar technologies
-I am passionate about growing new technologies if given a chance!
+I am passionate about growing and learning new technologies if given a chance!
 
 🖥️ **Languages** 
 
