@@ -1,10 +1,10 @@
 ## Hi, I’m Alex Wills (he/them)
 - I’m interested in computers, programming, game design, language, and art
-- I love problem solving and collaboration
-- 💻🪶I’m currently studying Computer Science with a Rhetoric and Writing secondary field at NCF
+- I love problem solving and collaboration that makes a difference
+- I’m currently studying Computer Science with a Rhetoric and Writing secondary field at NCF💻🪶
 
 ### Skills and familiar technologies
-I am passionate about learning new technologies if given a chance!
+I am passionate about growing new technologies if given a chance!
 
 🖥️ **Languages** 
 
