@@ -17,6 +17,7 @@ Unity3D, Quest 2 VR, Angular, MongoDB, Flask, AWS, SFML, SDL2, NLTK, C++ Makefil
 🌐 **Natural Languages**
 
 English, German (limited working proficiency), Turkish (elementary)
+> Dil öğrenmeyi çok seviyorum!
 
 🎬 **Miscellaneous**
 
