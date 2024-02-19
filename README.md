@@ -12,7 +12,7 @@ I have experience with C++, Python, C#, Java, JavaScript/TypeScript, HTML, CSS, 
 
 🌿 **Frameworks/Ecosystems**
 
-Unity3D, Quest 2 VR, Angular, MongoDB, Flask, AWS, SFML, SDL2, NLTK, C++ Makefiles
+Unity3D, Quest 2 VR, OpenGL, Angular, MongoDB, Flask, AWS, SFML, SDL2, NLTK, C++ Makefiles
 
 🌐 **Natural Languages**
 
@@ -26,7 +26,7 @@ Adobe Premiere Rush, Trello, Jira
 
 #### Areas of focus
 
-Game Design/Development, Software Engineering, Education, Human Centered Computing, Natural Language Processing, Embedded Systems, Graphics, Computer Architecture
+Game Design/Development, Software Engineering, Education, Human Centered Computing, Computer Graphics, Natural Language Processing, Embedded Systems, Computer Architecture
 
 #### Connect with me!
 [LinkedIn](https://www.linkedin.com/in/alexanderwills37/)
