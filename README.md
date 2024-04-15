@@ -12,7 +12,7 @@ I have experience with C++, Python, C#, Java, JavaScript/TypeScript, HTML, CSS, 
 
 🌿 **Frameworks/Ecosystems**
 
-Unity3D, Quest 2 VR, OpenGL, Angular, MongoDB, Flask, AWS, SFML, SDL2, NLTK, C++ Makefiles
+Unity3D, Quest 2 VR, OpenGL, WebGL, Angular, MongoDB, Flask, AWS, SFML, SDL2, NLTK, C++ Makefiles
 
 🌐 **Natural Languages**
 
