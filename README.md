@@ -8,20 +8,34 @@ I am passionate about growing and learning new technologies if given a chance!
 
 🖥️ **Languages** 
 
-I have experience with C++, Python, C#, Java, JavaScript/TypeScript, HTML, CSS, Assembly, and HDL
+I have experience with C++, Python, C#, Java, SQL, JavaScript/TypeScript, HTML, CSS, Assembly, and HDL
 
 🌿 **Frameworks/Ecosystems**
 
-Unity3D, Quest 2 VR, OpenGL, WebGL, Angular, MongoDB, Flask, AWS, SFML, SDL2, NLTK, C++ Makefiles
+- **Game Development**:
+  Unity3D, Quest 2 VR, SFML
+
+- **Frontend Development**:
+  Angular
+
+- **Backend Development**:
+  AWS, MongoDB, Flask, NodeJS
+
+- **Graphics**:
+  OpenGL, WebGL, SDL2
+
+- **Other**:
+  NLTK, C++ Makefiles
+
 
 🌐 **Natural Languages**
 
-English, German (limited working proficiency), Turkish (elementary)
+English, German (limited working proficiency), Turkish (limited working proficiency)
 > Dil öğrenmeyi çok seviyorum!
 
 🎬 **Miscellaneous**
 
-Adobe Premiere Rush, Trello, Jira
+Adobe Premiere Rush | Trello | Jira | Google Suite (Sheets, Docs, Slides) | Autodesk Inventor
 
 
 #### Areas of focus
