@@ -16,7 +16,7 @@ I have experience with C++, Python, C#, Java, SQL, JavaScript/TypeScript, HTML, 
   Unity3D, Quest 2 VR, SFML
 
 - **Frontend Development**:
-  Angular
+  Angular, Vue
 
 - **Backend Development**:
   AWS, MongoDB, Flask, NodeJS
