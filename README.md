@@ -8,7 +8,7 @@ I am passionate about growing and learning new technologies if given a chance!
 
 🖥️ **Languages** 
 
-I have experience with C++, Python, C#, Java, SQL, JavaScript/TypeScript, HTML, CSS, Assembly, and HDL
+I have experience with C++, Python, Swift, C#, Java, SQL, JavaScript/TypeScript, HTML, CSS, Assembly, and HDL
 
 🌿 **Frameworks/Ecosystems**
 
@@ -16,10 +16,10 @@ I have experience with C++, Python, C#, Java, SQL, JavaScript/TypeScript, HTML, 
   Unity3D, Quest 2 VR, SFML
 
 - **Frontend Development**:
-  Angular, Vue
+  Angular, Vue, SwiftUI
 
 - **Backend Development**:
-  AWS, MongoDB, Flask, NodeJS
+  AWS, MongoDB, Flask, NodeJS, SQLite
 
 - **Graphics**:
   OpenGL, WebGL, SDL2
