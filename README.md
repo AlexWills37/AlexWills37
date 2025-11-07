@@ -8,7 +8,7 @@ I am passionate about growing and learning new technologies if given a chance!
 
 🖥️ **Languages** 
 
-I have experience with C++, Python, Swift, C#, Java, SQL, JavaScript/TypeScript, HTML, CSS, Assembly, and HDL
+I have experience with C++, Python, Swift, Go, C#, Java, SQL, JavaScript/TypeScript, HTML, CSS, Assembly, and HDL
 
 🌿 **Frameworks/Ecosystems**
 
@@ -19,7 +19,7 @@ I have experience with C++, Python, Swift, C#, Java, SQL, JavaScript/TypeScript,
   Angular, Vue, SwiftUI
 
 - **Backend Development**:
-  AWS, MongoDB, Flask, NodeJS, SQLite
+  AWS, MongoDB, Flask, NodeJS, SQLite, PostgreSQL
 
 - **Graphics**:
   OpenGL, WebGL, SDL2
